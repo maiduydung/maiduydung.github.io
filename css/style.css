@@ -3,10 +3,15 @@ h1{
     background-color: transparent;
     text-align: center;
     border: 2px solid white;
+    cursor: alias;
 }
 
 body{
     background-image: url('../resource/background.jpg');
     /* background-size: auto; */
     color: bisque;
+}
+
+li{
+    list-style: none;
 }
