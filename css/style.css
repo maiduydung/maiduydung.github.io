@@ -1,11 +1,12 @@
 h1{
     color: darkgoldenrod;
-    background-color: rgb(116, 24, 116);
+    background-color: transparent;);
     text-align: center;
     border: 2px solid white;
 }
 
 body{
-    color: whitesmoke;
-    background-color: black;
+    background-image: url('../resource/background.jpg');
+    /* background-size: auto; */
+    color: bisque;
 }
