@@ -1,12 +1,5 @@
 
 
-h1{
-    
-    color: rgb(99, C0, C7);
-    text-align: center;
-    border: 2px solid rgba(255, 176, 170, 0.7);
-    cursor: alias;
-}
 
 body{
     background-image: url('../resource/background.jpg');
@@ -14,16 +7,17 @@ body{
     color: bisque;
 }
 
-li{
-    list-style: none;
+h1{
+    /* color: #99COC7; */
+    color: rgb(99, C0, C7);
+    text-align: center;
+    border: 2px solid black);
+    cursor: alias;
 }
 
-a{
-    display: inline-block;
-}
 
-.webtext{
-    color: rgb(96, c4, c6);
-    border: 4px;
-}
+
+
+
+
 
