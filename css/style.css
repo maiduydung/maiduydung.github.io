@@ -15,3 +15,7 @@ body{
 li{
     list-style: none;
 }
+
+a{
+    display: inline-block;
+}
