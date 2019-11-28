@@ -9,12 +9,12 @@ body{
 
 h1{
     /* color: #99COC7; */
-    color: rgb(39, 60, 117);
+    background-color: bisque;
+    color: rgb(39, 60, 100);
     text-align: center;
     border: 2px solid rgba(255, 176, 170, 0.7);
     cursor: alias;
-
-
+    font-family: 'Slabo 27px', serif;
 }
 
 p{

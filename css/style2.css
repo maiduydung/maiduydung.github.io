@@ -1,0 +1,13 @@
+body{
+    background-image: url('../resource/penguins.jpg');
+}
+
+ul{
+    vertical-align: middle;
+    text-align: left;
+    border: 2px dashed grey;
+    display: inline;
+}
+
+
+
