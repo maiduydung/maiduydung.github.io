@@ -9,12 +9,21 @@ body{
 
 h1{
     /* color: #99COC7; */
-    color: rgb(99, C0, C7);
+    color: rgb(39, 60, 117);
     text-align: center;
-    border: 2px solid black);
+    border: 2px solid rgba(255, 176, 170, 0.7);
     cursor: alias;
+
+
 }
 
+p{
+    line-height: 20px;
+    font-style: italic;
+    font-size:  120;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
 
 
 
