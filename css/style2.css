@@ -14,11 +14,13 @@ h1{
     color: white;
     font-size: 100px;
     text-align: center;
+    font-family: 'Bebas Neue', cursive;
+
 }
 
 .webtext{
     color: snow;
     text-align: center;
-
+    font-family: 'Lora', serif;
 }
 
