@@ -1,13 +1,24 @@
 body{
-    background-image: url('../resource/penguins.jpg');
+    background-color: #282828;
+
 }
 
-ul{
-    vertical-align: middle;
-    text-align: left;
-    border: 2px dashed grey;
-    display: inline;
+li{
+    color: seashell;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
 }
 
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
 
+.webtext{
+    color: snow;
+    text-align: center;
+
+}
 
