@@ -1,5 +1,5 @@
 body{
-    background-color: #282828;
+    background-color: #101012;
 
 }
 
@@ -18,14 +18,16 @@ h1{
 
 }
 
+img{
+    float: left;
+    max-width: 50%;
+    max-height: 50%;
+}
+
 .webtext{
     color: snow;
     text-align: center;
     font-family: 'Lora', serif;
+    font-size: 20px;
 }
 
-/* #playmovie{
-    color: snow;
-    text-align: center;
-    font-family: 'Lora', serif;
-} */
